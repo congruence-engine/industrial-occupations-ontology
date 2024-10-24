@@ -22,6 +22,7 @@ Conceptualization, Methodology
 
 ## Data sources (used or developed)
 •	1921 Census Report: occupation name and activity and objects/place (data scraped from taxonomical occupations data presented online)
+
 •	A Dictionary of Occupational Terms Based on the Classification of Occupations used in the Census of Population, 1921 (http://doot.spub.co.uk/) 
 
 ## Investigation methods/ tools/ code/ software (used or developed)
