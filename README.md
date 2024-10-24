@@ -6,7 +6,9 @@ This investigation sought to semantically represent industrial occupations in th
 
 ## Research questions
 •	How can an occupations ontology serve to connect heritage collections related to industrial heritage?
+
 •	What data sources are required to develop an ontology of industrial occupations across our three themes?
+
 •	To what extend can an ontology become fuzzily defined, socially developed and collectively maintained?
 
 ## People
