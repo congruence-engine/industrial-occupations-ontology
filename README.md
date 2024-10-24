@@ -13,12 +13,15 @@ This investigation sought to semantically represent industrial occupations in th
 
 ## People
 **Sarah Middle**
+
 Conceptualization, Data curation, Investigation, Methodology
 
 **Alex Butterworth**
+
 Conceptualization, Methodology
 
 **Arran Rees**
+
 Conceptualization, Methodology
 
 
